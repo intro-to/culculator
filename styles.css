@@ -1,0 +1,22 @@
+.calculator {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.buttons button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    border: none;
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+#display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
